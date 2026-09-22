@@ -17,67 +17,71 @@ collections:
         file: "content/site.json"
         format: "json"
         fields:
-          - label: "Foto Andy"
-            name: "andy"
-            widget: "image"
-            choose_url: false
-          - label: "Galería · Collage"
-            name: "collage"
-            widget: "image"
-            choose_url: false
-          - label: "Foto de equipo"
-            name: "equipo"
-            widget: "image"
-            choose_url: false
-          - label: "Foto Flor"
-            name: "flor"
-            widget: "image"
-            choose_url: false
-          - label: "Logo Gestaltperú"
-            name: "gestaltperu"
-            widget: "image"
-            choose_url: false
-          - label: "Galería · Grupo"
-            name: "grupo"
-            widget: "image"
-            choose_url: false
-          - label: "Foto principal"
-            name: "hero"
-            widget: "image"
-            choose_url: false
-          - label: "Foto Jorge"
-            name: "jorge"
-            widget: "image"
-            choose_url: false
-          - label: "Logo Somos Arte Libre"
-            name: "logo"
-            widget: "image"
-            choose_url: false
-          - label: "Foto El arte también es una pausa"
-            name: "movimiento"
-            widget: "image"
-            choose_url: false
-          - label: "Galería · Árboles"
-            name: "obra-arboles"
-            widget: "image"
-            choose_url: false
-          - label: "Galería · Mano"
-            name: "obra-mano"
-            widget: "image"
-            choose_url: false
-          - label: "Galería · Paisaje"
-            name: "obra-paisaje"
-            widget: "image"
-            choose_url: false
-          - label: "Galería · Proceso 2"
-            name: "proceso-2"
-            widget: "image"
-            choose_url: false
-          - label: "Foto Vivimos haciendo"
-            name: "proceso"
-            widget: "image"
-            choose_url: false
-          - label: "Galería · Sombras"
-            name: "sombras"
-            widget: "image"
-            choose_url: false
+          - label: "Imágenes"
+            name: "images"
+            widget: "object"
+            fields:
+              - label: "Foto Andy"
+                name: "andy"
+                widget: "image"
+                choose_url: false
+              - label: "Galería · Collage"
+                name: "collage"
+                widget: "image"
+                choose_url: false
+              - label: "Foto de equipo"
+                name: "equipo"
+                widget: "image"
+                choose_url: false
+              - label: "Foto Flor"
+                name: "flor"
+                widget: "image"
+                choose_url: false
+              - label: "Logo Gestaltperú"
+                name: "gestaltperu"
+                widget: "image"
+                choose_url: false
+              - label: "Galería · Grupo"
+                name: "grupo"
+                widget: "image"
+                choose_url: false
+              - label: "Foto principal"
+                name: "hero"
+                widget: "image"
+                choose_url: false
+              - label: "Foto Jorge"
+                name: "jorge"
+                widget: "image"
+                choose_url: false
+              - label: "Logo Somos Arte Libre"
+                name: "logo"
+                widget: "image"
+                choose_url: false
+              - label: "Foto El arte también es una pausa"
+                name: "movimiento"
+                widget: "image"
+                choose_url: false
+              - label: "Galería · Árboles"
+                name: "obra-arboles"
+                widget: "image"
+                choose_url: false
+              - label: "Galería · Mano"
+                name: "obra-mano"
+                widget: "image"
+                choose_url: false
+              - label: "Galería · Paisaje"
+                name: "obra-paisaje"
+                widget: "image"
+                choose_url: false
+              - label: "Galería · Proceso 2"
+                name: "proceso-2"
+                widget: "image"
+                choose_url: false
+              - label: "Foto Vivimos haciendo"
+                name: "proceso"
+                widget: "image"
+                choose_url: false
+              - label: "Galería · Sombras"
+                name: "sombras"
+                widget: "image"
+                choose_url: false
