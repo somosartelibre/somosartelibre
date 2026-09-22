@@ -85,3 +85,52 @@ collections:
                 name: "sombras"
                 widget: "image"
                 choose_url: false
+
+  - name: "appearance"
+    label: "Apariencia"
+    description: "Modifica los colores principales de Somos Arte Libre."
+    files:
+      - label: "Colores de la identidad"
+        name: "colors"
+        file: "content/appearance.json"
+        format: "json"
+        fields:
+          - label: "Color de fondo principal"
+            name: "paper"
+            widget: "color"
+            enableAlpha: false
+
+          - label: "Fondo crema"
+            name: "cream"
+            widget: "color"
+            enableAlpha: false
+
+          - label: "Terracota"
+            name: "terracotta"
+            widget: "color"
+            enableAlpha: false
+
+          - label: "Verde oliva"
+            name: "olive"
+            widget: "color"
+            enableAlpha: false
+
+          - label: "Verde oliva secundario"
+            name: "olive2"
+            widget: "color"
+            enableAlpha: false
+
+          - label: "Texto principal"
+            name: "ink"
+            widget: "color"
+            enableAlpha: false
+
+          - label: "Líneas y bordes"
+            name: "line"
+            widget: "color"
+            enableAlpha: false
+
+          - label: "Blanco"
+            name: "white"
+            widget: "color"
+            enableAlpha: false
