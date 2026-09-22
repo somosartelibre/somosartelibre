@@ -1,20 +1,20 @@
 {
   "images": {
-    "andy": "assets/andy.jpg",
-    "collage": "assets/collage.jpg",
-    "equipo": "assets/equipo.jpg",
-    "flor": "assets/flor.jpg",
-    "gestaltperu": "assets/gestaltperu.png",
-    "grupo": "assets/grupo.jpg",
-    "hero": "assets/hero.jpg",
-    "jorge": "assets/jorge.jpg",
-    "logo": "assets/logo.png",
-    "movimiento": "assets/movimiento.jpg",
-    "obra-arboles": "assets/obra-arboles.jpg",
-    "obra-mano": "assets/obra-mano.jpg",
-    "obra-paisaje": "assets/obra-paisaje.jpg",
-    "proceso-2": "assets/proceso-2.jpg",
-    "proceso": "assets/proceso.jpg",
-    "sombras": "assets/sombras.jpg"
+    "andy": "/assets/andy.jpg",
+"collage": "/assets/collage.jpg",
+"equipo": "/assets/equipo.jpg",
+"flor": "/assets/flor.jpg",
+"gestaltperu": "/assets/gestaltperu.png",
+"grupo": "/assets/grupo.jpg",
+"hero": "/assets/hero.jpg",
+"jorge": "/assets/jorge.jpg",
+"logo": "/assets/logo.png",
+"movimiento": "/assets/movimiento.jpg",
+"obra-arboles": "/assets/obra-arboles.jpg",
+"obra-mano": "/assets/obra-mano.jpg",
+"obra-paisaje": "/assets/obra-paisaje.jpg",
+"proceso-2": "/assets/proceso-2.jpg",
+"proceso": "/assets/proceso.jpg",
+"sombras": "/assets/sombras.jpg"
   }
 }
